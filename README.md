@@ -8,10 +8,10 @@
 #### Importante:
 Antes de prosseguir com as instruções, ao tentar resolver o desafio de phishing da trilha Cybersecurity Specialist, me deparei com a página atual do Facebook implementando boas práticas para defender os campos de login e senha usando scripts de codificação e hashing. Portanto, não consegui sucesso seguindo exatamente os mesmos passos do instrutor.
 
-Pesquisei e encontrei uma forma de driblar essa proteção nos dois links abaixo. Não vou replicar o passo a passo aqui por considerá-lo desnecessário e para evitar repetição, visto que o trabalho realizado por Romullo (@RLLKLLSS) nos links está claro e perfeito.
+Pesquisei e encontrei uma forma de driblar essa proteção nos dois links abaixo. Não vou replicar o passo a passo aqui por considerá-lo desnecessário e para evitar repetição, visto que o trabalho realizado pelo **Romullo** ([@RLLKLLSS](https://github.com/RLLKLLSS)) nos links está claro e perfeito.
 
-- link 1 https://web.dio.me/articles/sobre-o-setoolkit-e-o-facebook?page=1&order=oldest
-- link 2 https://github.com/RLLKLLSS/cibersecurity-desafio-phishing 
+- [link 1](https://web.dio.me/articles/sobre-o-setoolkit-e-o-facebook?page=1&order=oldest)
+- [link 2](https://github.com/RLLKLLSS/cibersecurity-desafio-phishing)
   
 ### Configurando o Phishing no Kali Linux
 
