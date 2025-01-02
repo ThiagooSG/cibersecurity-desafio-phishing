@@ -36,7 +36,7 @@ Pesquisei e encontrei uma forma de driblar essa proteção nos dois links abaixo
 ![Alt text](./imagem5.png "Optional title")
 
 ### 6 Passo
-Observação: A partir deste ponto, recomendo que você consulte o tópico **"Importante"** mencionado acima para prosseguir. Após baixar a página do Facebook e remover a linha do script que implementa a proteção conforme a orientação, retorne a este ponto para continuar.
+Observação: A partir deste ponto, recomendo que você consulte o tópico [**"Importante"**](https://github.com/ThiagooSG/cibersecurity-desafio-phishing#importante) mencionado acima para prosseguir. Após baixar a página do Facebook e remover a linha do script que implementa a proteção conforme a orientação, retorne a este ponto para continuar.
 
  Feito o procedimento, voltamos ao terminal.
 - Método de ataque: ``` Custom Import ```
